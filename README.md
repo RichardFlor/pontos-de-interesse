@@ -22,7 +22,7 @@ $ ./mvnw clean package
 ```
 - Executar a aplicação:
 ```
-$ java -jar target/pontos-0.0.1-SNAPSHOT.jar
+$ java -jar target/pontos-de-interesse-0.0.1-SNAPSHOT.jar
 ```
 
 A API poderá ser acessada em [localhost:8080](http://localhost:8080).
